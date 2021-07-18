@@ -1,0 +1,25 @@
+{
+  	"success": true,
+  	"data": [
+		{
+  			"id": "90001",
+  			"title": "Pizza Hut - Beach Road",
+  			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CY3KNAEGLA5ZJE/hero/e4f1a87edc304a019719c6eccc909bd7_1591695182097576342.png"
+		},
+		{
+  			"id": "90002",
+  			"title": "Canadian Pizza - Trio 🏍",
+  			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2TADFKEN6XETT/hero/4382a9cf21ea4e7c808488996e9a0d20_1620027294612054424.png"
+		},
+		{
+  			"id": "90003",
+  			"title": "Domino's - Arab Street",
+  			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD09702/hero/f0d899ef81bc48b195de048593fcf9ac_1626060177624694492.jpg"
+		},
+		{
+  			"id": "90004",
+  			"title": "Rubato - Greenwood Ave [Islandwide Delivery]",
+  			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD00974/hero/be17b8e9e2cf4240ac44a95e4ceab78c_1588739350262430342.jpeg"
+		}
+ 	]
+}

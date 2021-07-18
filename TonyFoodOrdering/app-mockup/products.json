@@ -1,0 +1,323 @@
+{
+  	"success": true,
+  	"data": [
+  		{
+			"title" : "Pizza",
+            "type" : "FOOD",
+			"product_list": [
+	    		{
+	      			"id": "30001",
+	      			"title": "Pizza Hut - Beach Road",
+	      			"brief": "Pizza, Halal, Fast Food, Western, Pasta",
+	      			"price": 12.5,
+	      			"star": 4.3,
+	      			"hasPromo": true,
+	      			"promotionText": "Use TEATIME for FREE delivery between 3PM to 5PM, Mon to Sun",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CY3KNAEGLA5ZJE/hero/e4f1a87edc304a019719c6eccc909bd7_1591695182097576342.png"
+	    		},
+	    		{
+	      			"id": "30002",
+	      			"title": "Canadian Pizza - Trio 🏍",
+	      			"brief": "Fast Food, Pizza, Western",
+	      			"price": 11.0,
+	      			"star": 4.4,
+	      			"hasPromo": true,
+	      			"promotionText": "Manyversary Sale 2021 🍽️🛍️🤑 (Coke)",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2TADFKEN6XETT/hero/4382a9cf21ea4e7c808488996e9a0d20_1620027294612054424.png"
+	    		},
+	    		{
+	      			"id": "30003",
+	      			"title": "Domino's - Arab Street",
+	      			"brief": "Western, Fast Food, Pizza, Halal, Chicken",
+	      			"price": 9.5,
+	      			"star": 4.4,
+	      			"hasPromo": true,
+	      			"promotionText": "🍕1-for-1 Crunchy Thin Crust Pizza",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD09702/hero/f0d899ef81bc48b195de048593fcf9ac_1626060177624694492.jpg"
+	    		},
+	    		{
+	      			"id": "30004",
+	      			"title": "Rubato - Greenwood Ave [Islandwide Delivery]",
+	      			"brief": "Italian, Breakfast, Islandwide Delivery, Pizza",
+	      			"price": 13.5,
+	      			"star": 4.2,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD00974/hero/be17b8e9e2cf4240ac44a95e4ceab78c_1588739350262430342.jpeg"
+	    		},
+	    		{
+	      			"id": "30005",
+	      			"title": "MyPizza - East Coast",
+	      			"brief": "Italian, Same Prices In-Store, Pizza, Salad, Pasta",
+	      			"price": 16.5,
+	      			"star": 4.4,
+	      			"hasPromo": true,
+	      			"promotionText": "Use TEATIME for FREE delivery between 3PM to 5PM, Mon to Sun",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD00850/hero/a32f5427765044a6bf23452a9e42213f_1593513605830058704.jpeg"
+	    		},
+	    		{
+	      			"id": "30006",
+	      			"title": "Rosso Vino - Merbau Road [Islandwide Delivery]",
+	      			"brief": "Pasta, Alcohol, Pizza, Italian",
+	      			"price": 8.5,
+	      			"star": 4,
+	      			"hasPromo": false,
+	      			"promotionText": null	,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD00949/hero/bfa213c580834a1f9d33d0cb0527be7d_1621852898808229054.jpeg"
+	    		},
+	    		{
+	      			"id": "30007",
+	      			"title": "Al-Ameen - Cheong Chin Nam Road [Islandwide Delivery]",
+	      			"brief": "Asian, Chicken, Indian, Local, Western",
+	      			"price": 14.5,
+	      			"star": 3.8,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2VKLYCJBCAJTX/hero/de8fc1491506468d833e46599a67a518_1624955448170720755.jpg"
+	    		},
+	    		{
+	      			"id": "30008",
+	      			"title": "Gem Marketplace - Tai Thong Crescent",
+	      			"brief": "Alcohol, Beverages, Convenience, Snacks, Mart",
+	      			"price": 13.5,
+	      			"star": 3.5,
+	      			"hasPromo": true,
+	      			"promotionText": "Enjoy 20% off min. spend $25 with promo code GROCERIES",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2JZGYCBNTAVJ2/hero/b284b9f045304075a2265f0895f2a0e8_1611635441863457245.jpg"
+	    		},
+	    		{
+	      			"id": "30009",
+	      			"title": "The Royal Kabab & Briyani Authentic Indian British Curry",
+	      			"brief": "Indian, Pasta, Pizza, Western",
+	      			"price": 11.5,
+	      			"star": 3.8,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2K1AP6XLXUTG6/hero/c0f4d0e556ac4428ba35f7e9f9c39f1b_1613730828687749029.jpeg"
+	    		},
+	    		{
+	      			"id": "30010",
+	      			"title": "GrabKitchen - Hillview [Islandwide Delivery]",
+	      			"brief": "Local, Mix & Match, Islandwide Delivery",
+	      			"price": 7.5,
+	      			"star": 4.1,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CZNUALEZDEKDVA/hero/1ecf08d57e824f5f9b28d8dc8d1efff0_1600683977742041686.jpeg"
+	    		}
+	 		]
+ 		},
+ 		{
+			"title" : "Sushi",
+            "type" : "FOOD",
+			"product_list": [
+	    		{
+	      			"id": "40001",
+	      			"title": "Yuba Hut - The Poiz Centre",
+	      			"brief": "Asian, Japanese, Sushi",
+	      			"price": 9.5,
+	      			"star": 4.2,
+	      			"hasPromo": true,
+	      			"promotionText": "Use TEATIME for FREE delivery between 3PM to 5PM, Mon to Sun",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CYUTT6CCCNUDGA/hero/8714190b784245bab51ecb53aab1a66f_1563185627353790280.jpg"
+	    		},
+	    		{
+	      			"id": "40002",
+	      			"title": "Kinsa Sushi - Paya Lebar Quarter Mall (PLQ) [Islandwide Delivery]",
+	      			"brief": "Japanese, Healthy, Local, Noodles, Sushi",
+	      			"price": 12.0,
+	      			"star": 4.1,
+	      			"hasPromo": true,
+	      			"promotionText": "Use PROMO5PLQ to enjoy a $5 discount, min spending of $15!",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD00695/hero/upload-photo-Hero_Photo_99b2e52ef1574362b727ba9417116dba_1556012350915103284.jpeg"
+	    		},
+	    		{
+	      			"id": "40003",
+	      			"title": "Genki Sushi - City Square Mall",
+	      			"brief": "Sushi, Japanese",
+	      			"price": 9.5,
+	      			"star": 4.3,
+	      			"hasPromo": true,
+	      			"promotionText": "Use TEATIME for FREE delivery between 3PM to 5PM, Mon to Sun",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CZD2UFBTFGMWHA/hero/e2886c3bebd44c1f96e0c60307b8e12b_1597675401605273741.jpeg"
+	    		},
+	    		{
+	      			"id": "40004",
+	      			"title": "Don Don Donki - City Square Mall [Islandwide Delivery]",
+	      			"brief": "Mart",
+	      			"price": 13.5,
+	      			"star": 4.5,
+	      			"hasPromo": true,
+	      			"promotionText": "Enjoy 20% off min. spend $25 with promo code GROCERIES",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2LBLACKTREUCN/hero/755b43a4c98e4917b9f9561766876bd0_1614168551880646602.jpeg"
+	    		},
+	    		{
+	      			"id": "40005",
+	      			"title": "Uni Gallery by Oosterbay - The Plaza",
+	      			"brief": "Asian, Islandwide Delivery, Japanese, Same Prices In-Store",
+	      			"price": 11.5,
+	      			"star": 3.1,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD09523/hero/25a0e230cbb14dd3bc2344cd673126e9_1610171405406038915.jpeg"
+	    		},
+	    		{
+	      			"id": "40006",
+	      			"title": "Hokey Poki - PLQ Mall",
+	      			"brief": "Japanese, Healthy",
+	      			"price": 8.5,
+	      			"star": 4.4,
+	      			"hasPromo": true,
+	      			"promotionText": "10% off Setto Specials",
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CY4JJ7ECR4BDGX/hero/9698c1850ea849ff882e3eb27e59533e_1579765216616707283.jpeg"
+	    		},
+	    		{
+	      			"id": "40007",
+	      			"title": "Kushi - Macpherson Road",
+	      			"brief": "Japanese",
+	      			"price": 7.5,
+	      			"star": 3.8,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/SGDD09020/hero/upload-photo-Hero_Photo_d84600879e6640bd91a336563a9847e7_1554983849068193213.jpeg"
+	    		},
+	    		{
+	      			"id": "40008",
+	      			"title": "Saute Sushi - Paya Lebar Square",
+	      			"brief": "Japanese, Ramen, Sushi, Vegetarian Friendly, Vegan",
+	      			"price": 11.5,
+	      			"star": 4.7,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-C2TWV2KZRNWDT2/hero/27a54fdf1aed40999c47c5ef1b1fa9ae_1621415392178277960.jpeg"
+	    		},
+	    		{
+	      			"id": "40009",
+	      			"title": "Salmon Warrior - Singapore Post Centre",
+	      			"brief": "Japanese, Salad, Sushi, Health & Wellness",
+	      			"price": 15.5,
+	      			"star": 4.5,
+	      			"hasPromo": true,
+	      			"promotionText": "Use TEATIME for FREE delivery between 3PM to 5PM, Mon to Sun",
+	      			"imageUrl": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2VFCCCHCEKYE2/hero/af52516f4c1140c38bbac9b27fbe0eda_1624516032279536135.jpeg"
+	    		},
+	    		{
+	      			"id": "40010",
+	      			"title": "The Ramen House - Short Street [Islandwide Delivery]",
+	      			"brief": "Asian, Japanese, Noodles, Islandwide Delivery",
+	      			"price": 7.5,
+	      			"star": 4.2,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/4-CYVERJJDLX2YNX/hero/def775c1212d47e0b728e54e732e9f69_1587972842271395632.jpeg"
+	    		}
+	 		]
+ 		},
+ 		{
+			"title" : "Drink",
+            "type" : "DRINK",
+			"product_list": [
+	    		{
+	      			"id": "50001",
+	      			"title": "Brown sugar Early Grey Milk Tea",
+	      			"brief": "Regular",
+	      			"price": 4.5,
+	      			"star": 4.2,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010729101906/photo/e18d651f_fgJJ9ZkWyYp_mbZ4"
+	    		},
+	    		{
+	      			"id": "50002",
+	      			"title": "Brown Sugar Shizuoka Matcha",
+	      			"brief": "Regular",
+	      			"price": 6.5,
+	      			"star": 4.1,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010728050557/photo/39e88029_94DPA6ZZ_3BGffkk"
+	    		},
+	    		{
+	      			"id": "50003",
+	      			"title": "Perfect Avocado",
+	      			"brief": "Regular",
+	      			"price": 8.0,
+	      			"star": 4.3,
+	      			"hasPromo": false,
+	      			"promotionText": false,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010727010103/photo/bf03fb26_AKYK7MSCoK4rT8A"
+	    		},
+	    		{
+	      			"id": "50004",
+	      			"title": "Blue Whale Milk Tea",
+	      			"brief": "Regular",
+	      			"price": 8.5,
+	      			"star": 4.5,
+	      			"hasPromo": false,
+	      			"promotionText": false,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010730014280/photo/4230317d_Rp3cCsZCJ0nJVGk0"
+	    		},	
+	    		{
+	      			"id": "50005",
+	      			"title": "Volcanic Sapphire Whale",
+	      			"brief": "Regular",
+	      			"price": 7.5,
+	      			"star": 4.1,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010726019053/photo/16debe73_cBxq6stlMekDigQ"
+	    		},
+	    		{
+	      			"id": "50006",
+	      			"title": "Orca Coconut Milk",
+	      			"brief": "Regula, New",
+	      			"price": 10.5,
+	      			"star": 4.4,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010730031733/photo/cb74e8a0_d0FfLN5MoKRg9wEA"
+	    		},
+	    		{
+	      			"id": "50007",
+	      			"title": "Osmanthus Honey Fresh Grapefruit Tea",
+	      			"brief": "Regular",
+	      			"price": 9.5,
+	      			"star": 4.8,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010708029162/photo/b47e182c_OV_8TYYjlU7srnw"
+	    		},
+	    		{
+	      			"id": "50008",
+	      			"title": "Fresh Grapefruit Yakult Green Tea",
+	      			"brief": "Regular",
+	      			"price": 7.5,
+	      			"star": 4.7,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010704011442/photo/57f064dd_A7wGoseRm1ROuvg"
+	    		},
+	    		{
+	      			"id": "50009",
+	      			"title": "Strawbery Cheezo milk",
+	      			"brief": "Popular",
+	      			"price": 7.5,
+	      			"star": 4.5,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20201113010716017029/photo/a2124b74_UyjpXyayUBfibUlQ"
+	    		},
+	    		{
+	      			"id": "50010",
+	      			"title": "Fresh Coconut Water with Pulp",
+	      			"brief": "Regular",
+	      			"price": 7.5,
+	      			"star": 4.2,
+	      			"hasPromo": false,
+	      			"promotionText": null,
+	      			"imageUrl": "https://d1sag4ddilekf6.cloudfront.net/compressed/items/SGITE20210711030029015303/photo/a342c654a1ad4cf0a63fb2f5368a5b60_1625972411894353305.jpeg"
+	    		}
+	 		]
+ 		}
+ 	]
+}

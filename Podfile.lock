@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CocoaLumberjack/Core (3.5.3)
+  - CocoaLumberjack/Swift (3.5.3):
+    - CocoaLumberjack/Core
+  - DNSPageView (2.1.0)
+  - MBProgressHUD (1.0.0)
+  - "NSObject+Rx (5.0.2)":
+    - RxSwift (~> 5.0)
+  - ObjectMapper (3.4.1)
+  - RxSwift (5.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.7.3)
+  - CocoaLumberjack/Swift (= 3.5.3)
+  - DNSPageView (= 2.1.0)
+  - MBProgressHUD (= 1.0.0)
+  - "NSObject+Rx (= 5.0.2)"
+  - ObjectMapper (= 3.4.1)
+  - RxSwift (= 5.0.0)
+  - SDWebImage (= 5.10.4)
+  - SwiftyJSON (= 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaLumberjack
+    - DNSPageView
+    - MBProgressHUD
+    - "NSObject+Rx"
+    - ObjectMapper
+    - RxSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  DNSPageView: 4d77a61f49a5668ec330fb7bd620d81354371ea7
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  "NSObject+Rx": 2eb2cf51fd1c554118449a7fbc36e4cd620b9e94
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 8e2b2c1fac42875322919dad3a7ff13a513dbd6e
+
+COCOAPODS: 1.8.4
